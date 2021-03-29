@@ -7,3 +7,8 @@ A empresa está montando a estratégia de vendas para o próximo ano e precisa s
 Dashboard:
 
 <img src="https://i.ibb.co/ZXNbzJy/dashboard.png" alt="dashboard" border="0">
+
+
+Dados:
+
+<img src="https://i.ibb.co/GVFMR4d/dados.png" alt="dados" border="0">
