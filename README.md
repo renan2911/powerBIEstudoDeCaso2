@@ -6,4 +6,4 @@ A empresa está montando a estratégia de vendas para o próximo ano e precisa s
 
 Dashboard:
 
-<img src="/img/dashboard.png"/>
+<img src="https://i.ibb.co/ZXNbzJy/dashboard.png" alt="dashboard" border="0">
